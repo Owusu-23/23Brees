@@ -1,4 +1,4 @@
-- What's up, I’m @23Brees
+- What's up, I’m @Owusu-23
 - Intersted in open-source Projects
 - Learning Swift
 
